@@ -1,0 +1,12 @@
+
+lista java basico
+
+exercicio 9 o problema pode ocoreer no tamanho do vetor pois não sabemos quantos numeros vão ser digitados, como resolver esse problema?
+
+exercicio 12 como eliminar os valores sem colocar 0 no lugar onde tinha o valor pois nao tem como deixar em branco.
+
+exercicio vetores
+
+como deixar possivel o ususario inserir valores ate quando ele resolver parar? como fazer isso sem criar um vetor gigante
+
+como mostrar todos os valores de um vetor em uma mensagem?
